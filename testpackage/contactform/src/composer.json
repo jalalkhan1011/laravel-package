@@ -1,0 +1,17 @@
+{
+    "name": "testpackage/contactform",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jalal Khan",
+            "email": "jalal.khan981@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TestPackage\\Contactform\\": "src/"
+        }
+    }
+}
