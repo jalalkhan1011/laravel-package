@@ -159,7 +159,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Jalaldev\Basicsetting\BasicSettingProvider::class,
         /*
          * Application Service Providers...
          */
